@@ -38,7 +38,7 @@ if st.button("👉 Voir mes pistes et conseils"):
     st.markdown("- **Télécharger un plan d’action simple pour avancer dès cette semaine**")
 
     with st.expander("📘 Exemple : Qu’est-ce qu’une prépa ?"):
-        st.markdown(\"\"\"
+        st.markdown(\"\"\")
         Une prépa (CPGE) est une formation gratuite et exigeante, qui prépare en 2 ans aux concours des grandes écoles (commerce, ingénieur, ENS, etc.). Elle s’adresse aux élèves motivés, curieux et prêts à travailler sérieusement.
 
         Il existe plusieurs types de prépas : 
