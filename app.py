@@ -50,8 +50,5 @@ if st.button("👉 Voir mes pistes et conseils"):
         Et surtout : il n’est pas nécessaire d’être « un génie » pour y arriver. Ce qu’il faut, c’est du travail, de l’envie, de la méthode. Et tu peux être accompagné(e) !
         """)
 
-st.markdown("---\n👩‍🎓 Projet imaginé par **Dina Klabi**, étudiante en prépa ECG au lycée Michelet")
 
-
-st.markdown(\"\\n---\\n👩‍🎓 Projet imaginé par **Dina Klabi**, étudiante en prépa ECG au lycée Michelet\")
 
